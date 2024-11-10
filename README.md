@@ -22,7 +22,7 @@
 ### few-shot-learning.ipynb 
 - Anika's previous version of converter.ipynb without using nbconvert (manual conversion to py script used instead)
 
-### interface.oy
+### interface.py
 - Maya's streamlit interface for users to use converter 
 - Connected to cconverter_func_maya.py
 - Runnable using 'streamlit run interface.py' in terminal if you want to see it!
